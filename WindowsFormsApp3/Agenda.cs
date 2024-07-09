@@ -19,6 +19,7 @@ namespace WindowsFormsApp3
         public void setCompromisso(String _compromisso) { compromisso = _compromisso; }
         public void setData(String _data) { data = _data; }
         public void setHora(String _hora) { hora = _hora; }
+        public void setlogal(String _hora) { hora = _hora; }
 
         public String getCodigo() { return codigo; }
         public String getParticipante() {  return participante; }
